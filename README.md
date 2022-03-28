@@ -1,4 +1,4 @@
-## Olá! Eu sou o João Vitor
+# Olá! Eu sou o João Vitor
 
 - 📚  Cursando Desenvolvimento de Sistemas
 - 😄  Pronomes: ele/dele
