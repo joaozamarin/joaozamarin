@@ -1,7 +1,6 @@
 # Olá! Eu sou o João Vitor
 
 - 📚  Cursando Desenvolvimento de Sistemas
-- 😄  Pronomes: ele/dele
 
 <div align="center">
   <a href="https://github.com/joaozamarin">
