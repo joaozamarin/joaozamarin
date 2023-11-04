@@ -1,6 +1,6 @@
 # Olá! Eu sou o João Vitor
 
-- 📚  Cursando Desenvolvimento de Sistemas
+- 📚  Técnico em Desenvolvimento de Sistemas
 
 <div align="center">
   <a href="https://github.com/joaozamarin">
