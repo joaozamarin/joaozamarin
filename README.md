@@ -31,3 +31,5 @@
   ![Snake animation](https://github.com/joaozamarin/joaozamarin/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=joaozamarin&label=Views&color=0e75b6&style=flat" alt="joaozamarin" /> </p>
